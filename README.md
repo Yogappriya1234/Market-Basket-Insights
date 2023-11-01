@@ -28,7 +28,7 @@ Clone the repository to your local machine:
 
 bash
 Copy code
-git clone https://github.com/yogappriya1234/market-basket-insights.git
+git clone https://github.com/Yogappriya1234/Market-Basket-Insights.git
 Navigate to the project directory:
 
 bash
